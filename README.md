@@ -1,7 +1,7 @@
 # Flutter Colored Pageview
 Simple Pageview widget that animates background colors between pages.
 <hr>
-![Demo Gif](demo/readme.gif)
+![Demo Gif](https://media.giphy.com/media/kesNBweK195hZ8mOnx/giphy.gif)
 
 ### How to use it
 The widget has only two properties to be set inside the constructor:
